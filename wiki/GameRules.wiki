@@ -8,7 +8,5 @@ Starshooter is a Space Combat Flight Simulator in 3D space where the player and 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Player must destroy enough Capital Ships and enemy starfighters to reach a certain score in order to achieve victory.
+    *  Capital Ships 
