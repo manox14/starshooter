@@ -16,3 +16,7 @@ Player must destroy enough Capital Ships and enemy starfighters to reach a certa
 Destroying Capital Ships also brings in more allies.
     *  Upon destroying an enemy Capital Ship, the player will receive a ship on his faction of equal class.
     *  Note that the Player's and enemy's factions both usually start off with equal amounts of Capital Ships.
+
+The enemy's and Player's factions are not necessarily equal.
+    *  The enemy's faction, the Astropyre, has much more fighters than the Player's faction.
+    *  The Player's faction, the Starshooters, has more powerful fighters than the Astropyre, so they last longer.
