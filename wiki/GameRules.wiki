@@ -25,8 +25,6 @@ All fighters will spawn from any ship with a docking bay aboard.
     *  In theory, each bay represents a certain number of fighters that can exist on the map at any given time; however, there would likely be too many.
     *  The maximum populations of fighters on the screen at any given time will be significantly smaller, but will still be high:  like 100 vs. 300 (Astropyres have more).
     *  The maximum score should always prevent the player or enemy to reduce the opposite team below the max pop.
-
-
-
+    *  The Player gets to choose which Capital Ship to spawn from and then select which fighter he/she will pilot.
 
 
