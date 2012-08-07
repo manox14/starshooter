@@ -10,3 +10,5 @@ Starshooter is a Space Combat Flight Simulator in 3D space where the player and 
 
 Player must destroy enough Capital Ships and enemy starfighters to reach a certain score in order to achieve victory.
     *  Capital Ships are worth a ton more points, so the only real way to end the game is to destroy a few Capital Ships.
+    *  Enemy fighters will always be a hassle and so will present themselves to the player to be destroyed, but they will not go down without a fight.
+    *  Later when the game grows, enemies will fly in swarm-formations and will always try to get in front of the player to do their dance (whatever form they are executing).
