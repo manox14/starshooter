@@ -12,3 +12,7 @@ Player must destroy enough Capital Ships and enemy starfighters to reach a certa
     *  Capital Ships are worth a ton more points, so the only real way to end the game is to destroy a few Capital Ships.
     *  Enemy fighters will always be a hassle and so will present themselves to the player to be destroyed, but they will not go down without a fight.
     *  Later when the game grows, enemies will fly in swarm-formations and will always try to get in front of the player to do their dance (whatever form they are executing).
+
+Destroying Capital Ships also brings in more allies.
+    *  Upon destroying an enemy Capital Ship, the player will receive a ship on his faction of equal class.
+    *  Note that the Player's and enemy's factions both usually start off with equal amounts of Capital Ships.
