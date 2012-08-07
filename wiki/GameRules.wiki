@@ -18,5 +18,17 @@ Destroying Capital Ships also brings in more allies.
     *  Note that the Player's and enemy's factions both usually start off with equal amounts of Capital Ships.
 
 The enemy's and Player's factions are not necessarily equal.
-    *  The enemy's faction, the Astropyre, has much more fighters than the Player's faction.
+    *  The enemy's faction, the Astropyre, has many more fighters than the Player's faction (types and quantity).
     *  The Player's faction, the Starshooters, has more powerful fighters than the Astropyre, so they last longer.
+
+All fighters will spawn from any ship with a docking bay aboard.
+    *  In theory, each bay represents a certain number of fighters that can exist on the map at any given time; however, there would likely be too many.
+    *  The maximum populations of fighters on the screen at any given time will be significantly smaller, but will still be high:  like 100 vs. 300 (Astropyres have more).
+
+
+
+
+
+
+
+
