@@ -1,9 +1,9 @@
-#summary General rules and objectives or Starshooter
+#summary General rules and objectives for Starshooter
 #labels rules,Phase-Requirements
 
 = Introduction =
 
-Starshooter is a Space Combat Flight Simulator in 3D space where the player and his/her team fight against an enemy team.
+Starshooter is a Space Combat Flight Simulator in 3D space where the player and his/her faction fight against an enemy faction.
 
 
 = Details =
