@@ -1,0 +1,5 @@
+Starshooter is a 1st/3rd person space combat game where the player can move around in 3D space using his/her space craft while shooting at attacking enemies.  The game itself will not be sold for profit, nor will anyone be compensated but they will still claim a hand in development of the project.
+
+Check out the site at:  https://sites.google.com/site/skyfleetstudio/
+
+Mostly, Starshooter is a project I came up with because I thought it would be a good starting point for building a portfolio.  It may look difficult at first glance, but the project is designed to grow from a small point to the final cut that includes complex rules.  I made it a public project when I realized that 3D modeling is not for me.  I am good at coming up with brand new ideas, but not as good at fully implementing them via code (I'm a good coder, but not patient in implementing every little rule).  After seeing how modding communities come together to help and support each other's projects, I thought it would be a great experience to put together a team of interested people and work on my project with other people with their own experiences and strengths.
